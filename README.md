@@ -1,7 +1,7 @@
 
 <html>
   <head>
-    <title>Title of the document</title>
+    <title>High Resolution PDF Download</title>
   </head>
   <body>
     <h1>BLM & Antifa Power Matrix</h1>
