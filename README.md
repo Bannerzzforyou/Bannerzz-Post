@@ -4,6 +4,6 @@
   </head>
   <body>
     <h1>BLM ANTIFA MATRIX CHART</h1>
-    <p>Open to download high resolution pdf chart here <a href="https://github.com/Bannerzzforyou/Bannerzz-Post/blob/master/BLM%20Antifa%20Power%20Matrix%20Final.pdf">open</a>.</p>
+    <p>To download file click <a href="https://github.com/Bannerzzforyou/Bannerzz-Post/blob/master/BLM%20Antifa%20Power%20Matrix%20Final.pdf">here</a>.</p>
   </body>
 </html>
